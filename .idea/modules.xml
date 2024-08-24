@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AllInOneChallenges/AllInOneChallenges.iml" filepath="$PROJECT_DIR$/AllInOneChallenges/AllInOneChallenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/ArrayChallenges/ArrayChallenges.iml" filepath="$PROJECT_DIR$/Array/ArrayChallenges/ArrayChallenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitwiseOperator/BitwiseOperator.iml" filepath="$PROJECT_DIR$/BitwiseOperator/BitwiseOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlStatements/BreakContinue/BreakContinue.iml" filepath="$PROJECT_DIR$/ControlStatements/BreakContinue/BreakContinue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Challenges/Challenges.iml" filepath="$PROJECT_DIR$/Operators/Challenges/Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/Constructor/Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlStatements/ControlStatements.iml" filepath="$PROJECT_DIR$/ControlStatements/ControlStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Escape Seq/Escape Seq.iml" filepath="$PROJECT_DIR$/Escape Seq/Escape Seq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalKeywords/FinalKeywords.iml" filepath="$PROJECT_DIR$/FinalKeywords/FinalKeywords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Escape Seq/IfElse/IfElse.iml" filepath="$PROJECT_DIR$/Escape Seq/IfElse/IfElse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfElse2/IfElse2.iml" filepath="$PROJECT_DIR$/IfElse2/IfElse2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlStatements/Loops/Loops.iml" filepath="$PROJECT_DIR$/ControlStatements/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomAndMathClass/RandomAndMathClass.iml" filepath="$PROJECT_DIR$/RandomAndMathClass/RandomAndMathClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/Scanner/Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringBuilderStringBuffer/StringBuilderStringBuffer.iml" filepath="$PROJECT_DIR$/StringBuilderStringBuffer/StringBuilderStringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringClass/StringClass.iml" filepath="$PROJECT_DIR$/StringClass/StringClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlStatements/SwitchStatement/SwitchStatement.iml" filepath="$PROJECT_DIR$/ControlStatements/SwitchStatement/SwitchStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlStatements/TernaryOperator1stTopicInConStmt/TernaryOperator1stTopicInConStmt.iml" filepath="$PROJECT_DIR$/ControlStatements/TernaryOperator1stTopicInConStmt/TernaryOperator1stTopicInConStmt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThisChapter/ThisChapter.iml" filepath="$PROJECT_DIR$/ThisChapter/ThisChapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypeConversion/TypeConversion.iml" filepath="$PROJECT_DIR$/TypeConversion/TypeConversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLoop/WhileLoop.iml" filepath="$PROJECT_DIR$/WhileLoop/WhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/git.iml" filepath="$PROJECT_DIR$/git/git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oops concept/oops concept.iml" filepath="$PROJECT_DIR$/../oops concept/oops concept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toStringMethod/toStringMethod.iml" filepath="$PROJECT_DIR$/toStringMethod/toStringMethod.iml" />
+    </modules>
+  </component>
+</project>
